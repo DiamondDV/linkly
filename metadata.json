@@ -1,0 +1,5 @@
+{
+  "name": "Linkly - Premium URL Shortener",
+  "description": "A production-ready URL shortener with QR codes, analytics, and custom slugs.",
+  "requestFramePermissions": []
+}
